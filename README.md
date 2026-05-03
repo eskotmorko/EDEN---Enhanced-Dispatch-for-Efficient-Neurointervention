@@ -1,6 +1,35 @@
 # EDEN---Enhanced-Dispatch-for-Efficient-Neurointervention
-Project for route length calculation
-This is a project for calculating ambulance and helicopter travel times in Finland. The code scripts provided is only for educational and research use. Commercial use of the code is prohibited.
-The code is build solely on one purpose only and therefore contains lots of constant values and pointers to spesific input data. The code is not meant to be universal, but with some coding of you own
-it can be recode for your own purposes. Comments of the code and variables are translated to english. With comments I tried to make the code more readable. If you have any questions or want to comment on the code
-somehow, feel free to ask me via mail.
+## Ambulance and Helicopter Route Length Calculation
+
+This project is designed for calculating ambulance and helicopter travel times in Finland.
+
+The code was developed for a specific research purpose and therefore contains:
+
+hardcoded constant values
+references to specific input datasets
+assumptions related to the Finnish emergency response system
+
+Because of this, the project is not intended to be a universal routing framework. However, the code can be modified and adapted for other purposes with additional development.
+
+The code comments and variable names have been translated into English to improve readability and accessibility.
+
+## Usage
+
+This project is intended for:
+
+  educational use
+  academic research
+  non-commercial purposes only
+
+Commercial use of the code is prohibited.
+
+Notes
+
+The implementation is purpose-built and may require:
+
+custom input data
+preprocessing steps
+modification of file paths and constants
+Questions and Feedback
+
+If you have questions, suggestions, or comments regarding the project, feel free to open an issue or leave a comment.
